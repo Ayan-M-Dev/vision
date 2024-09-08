@@ -1,4 +1,3 @@
-# TEAM VISIONN
 # AI-Enhanced Railway Safety and Crowd Management
 ![Screenshot 2024-09-03 125704](https://github.com/user-attachments/assets/c9c18056-f537-4325-99e5-7f6e99a52d5d)
 
